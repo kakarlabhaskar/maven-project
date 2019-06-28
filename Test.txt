@@ -1,2 +1,1 @@
-This is test file
-New line has added on 29th Jun
+This is Test file in release branch
